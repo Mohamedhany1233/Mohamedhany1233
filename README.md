@@ -27,27 +27,5 @@ Check out my portfolio and GitHub repositories to see my work in action!
 ## 📫 Contact Me
 
 * **Location:** Egypt
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **GitHub:** [github.com/MohamedHany](https://github.com/MohamedHany)
-
----
-
-## ⚡ Fun GIF Showcase
-
-### Building Websites
-
-![Coding GIF](https://media.giphy.com/media/l0HlPjez0ZCjS0p6s/giphy.gif)
-
-### React Development
-
-![React GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
-
-### Tailwind Magic
-
-![Tailwind GIF](https://media.giphy.com/media/3o7TKsQ2f2w4kCq8OY/giphy.gif)
-
----
-
-### Let's Connect!
-
-I'm always looking to collaborate on interesting frontend projects. Feel free to reach out or check my GitHub for ongoing work!
+* **Email:** [your.email@example.com](elqoptan337@gmail.com)
+* **GitHub:** [github.com/MohamedHany](https://github.com/Mohamedhany1233)
