@@ -4,7 +4,7 @@ Hi there! I'm MohamedHany1233, a passionate Frontend Web Developer from Egypt. I
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/mhm.fr132) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:elqoptan337@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/Mohamedhany1233) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter\&logoColor=white)](https://twitter.com/MohamedHany1233)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/mhm.fr132) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:elqoptan337@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter\&logoColor=white)](https://twitter.com/MohamedHany1233)
 
 # 💻 Tech Stack:
 
