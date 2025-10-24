@@ -1,50 +1,16 @@
-# 👋 Hi, I'm MohamedHany
+# 💫 About Me:
+I'm a passionate Frontend Web Developer from Egypt. I love building modern, responsive, and interactive websites that provide a great user experience.
 
-![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlmZnI2cHVzcGw0dDhxYnMyOGt6cjU1ZW03cml1cW04c2dwN3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
-## 🚀 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhm.fr132) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elqoptan337@gmail.com) 
 
-I'm a passionate **Frontend Web Developer** from **Egypt**. I love building modern, responsive, and interactive websites that provide a great user experience.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohamedhany1233&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohamedhany1233&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhany1233&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-</div>
-
-###
-
----
-
-## 🌟 Projects & Experience
-
-I focus on building **responsive web applications** with modern tools and best practices. My projects demonstrate clean code, modular components, and excellent UI/UX.
-
-Check out my portfolio and GitHub repositories to see my work in action!
-
----
-
-## 📫 Contact Me
-
-* **Location:** Egypt
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **GitHub:** [github.com/MohamedHany1233](https://github.com/MohamedHany1233)
-
-![Personal GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlmZnI2cHVzcGw0dDhxYnMyOGt6cjU1ZW03cml1cW04c2dwN3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
-
----
-
-### Let's Connect!
-
-I'm always looking to collaborate on interesting frontend projects. Feel free to reach out or check my GitHub for ongoing work!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
