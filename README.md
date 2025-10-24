@@ -27,4 +27,6 @@ Hi there! I'm MohamedHany1233, a passionate Frontend Web Developer from Egypt. I
 
 Always learning, always coding, and always enjoying the process!
 
+
+![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlmZnI2cHVzcGw0dDhxYnMyOGt6cjU1ZW03cml1cW04c2dwN3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
