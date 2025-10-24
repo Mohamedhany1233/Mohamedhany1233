@@ -1,44 +1,58 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hi, I'm MohamedHany1233
 
-###
+![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlmZnI2cHVzcGw0dDhxYnMyOGt6cjU1ZW03cml1cW04c2dwN3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamedhany1233&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 About Me
 
-###
+I'm a passionate **Frontend Web Developer** from **Egypt**. I love building modern, responsive, and interactive websites that provide a great user experience.
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlmZnI2cHVzcGw0dDhxYnMyOGt6cjU1ZW03cml1cW04c2dwN3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+---
 
-###
+## 💻 Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-</div>
+* **Languages:** HTML, CSS, JavaScript
+* **Frameworks & Libraries:** React, Tailwind CSS
+* **Tools:** Git, GitHub
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+## 🌟 Projects & Experience
 
-###
+I focus on building **responsive web applications** with modern tools and best practices. My projects demonstrate clean code, modular components, and excellent UI/UX.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedhany1233/Mohamedhany1233/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedhany1233/Mohamedhany1233/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamedhany1233/Mohamedhany1233/output/pacman-contribution-graph.svg">
-</picture>
+Check out my portfolio and GitHub repositories to see my work in action!
 
-###
+---
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Mohamedhany1233.Mohamedhany1233&left_color=purple&right_color=cornflowerblue&left_text=VISITORS"  />
+## 📫 Contact Me
 
-###
+* **Location:** Egypt
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **GitHub:** [github.com/MohamedHany1233](https://github.com/MohamedHany1233)
+
+---
+
+## ⚡ Fun GIF Showcase
+
+### Building Websites
+
+![Coding GIF](https://media.giphy.com/media/l0HlPjez0ZCjS0p6s/giphy.gif)
+
+### React Development
+
+![React GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+
+### Tailwind Magic
+
+![Tailwind GIF](https://media.giphy.com/media/3o7TKsQ2f2w4kCq8OY/giphy.gif)
+
+### Personal Style GIF
+
+![Personal GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlmZnI2cHVzcGw0dDhxYnMyOGt6cjU1ZW03cml1cW04c2dwN3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+
+---
+
+### Let's Connect!
+
+I'm always looking to collaborate on interesting frontend projects. Feel free to reach out or check my GitHub for ongoing work!
+
