@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there! I'm MohamedHany1233, a passionate Frontend Web Developer from Egypt. I love crafting modern, responsive, and interactive websites that make users' experience smooth and enjoyable.
+Hi there! I'm MohamedHany, a passionate Frontend Web Developer from Egypt. I love crafting modern, responsive, and interactive websites that make users' experience smooth and enjoyable.
 
 ## 🌐 Socials:
 
