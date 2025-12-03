@@ -12,11 +12,6 @@ Hi there! I'm MohamedHany, a passionate Frontend Web Developer from Egypt. I lov
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhany1233\&theme=radical\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Mohamedhany1233\&show_icons=true\&theme=radical\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedhany1233\&theme=radical)
-
 ## 🎯 Goals:
 
 * Build awesome frontend projects.
