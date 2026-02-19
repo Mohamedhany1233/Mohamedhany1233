@@ -1,50 +1,29 @@
-# Hi there 👋, I'm Mohamed Hany
+# Hi 👋 I'm Mohamed Hany
 
-🚀 Front-End Developer | React & Next.js Specialist  
-💻 I build modern, fast, and responsive web applications.
+I'm a Front-End Developer who enjoys building modern, responsive, and user-friendly web applications.  
+I focus on writing clean code and creating smooth UI experiences using modern JavaScript frameworks.
 
----
+## 🛠️ Skills & Tools
 
-## 🛠️ Tech Stack & Skills
-
-### 🌐 Front-End
-- HTML5, CSS3
+### Front-End Development
+- HTML, CSS
 - JavaScript (ES6+), TypeScript
 - React.js, Next.js
 - Redux
 
-### 🎨 UI & Styling
+### UI & Styling
 - Tailwind CSS
 - Material UI
 
-### 🔗 API & Tools
+### API & Testing Tools
 - Axios
 - Postman
 
-### ⚙️ Version Control
+### Version Control
 - Git
 - GitHub
 
 ---
 
-## 🚀 What I Do
-✅ Build responsive UI layouts  
-✅ Create reusable React components  
-✅ Develop scalable Next.js applications  
-✅ Work with REST APIs & integrations  
-✅ State management using Redux  
+⭐ Feel free to check out my repositories and projects — I'm always working on improving my skills and building new things.
 
----
-
-## 📌 Currently Learning
-- Advanced Next.js Performance Optimization
-- Clean Architecture in Front-End Projects
-
----
-
-## 📫 Connect With Me
-- GitHub: [@Mohamedhany1233](https://github.com/Mohamedhany1233)
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
