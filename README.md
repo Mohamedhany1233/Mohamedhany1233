@@ -7,7 +7,8 @@ I focus on writing clean code and creating smooth UI experiences using modern Ja
 
 ### Front-End Development
 - HTML, CSS
-- JavaScript (ES6+), TypeScript
+- JavaScript (ES6+)
+- TypeScript
 - React.js, Next.js
 - Redux
 
