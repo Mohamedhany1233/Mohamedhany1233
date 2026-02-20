@@ -1,9 +1,9 @@
-# Hi 👋 I'm Mohamed Hany
+# Welcome , I'm Mohamed Hany
 
 I'm a Front-End Developer who enjoys building modern, responsive, and user-friendly web applications.  
 I focus on writing clean code and creating smooth UI experiences using modern JavaScript frameworks.
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### Front-End Development
 - HTML, CSS
