@@ -1,17 +1,39 @@
-<h1 align="center">Hi 👋, I'm MohamedHany</h1>
-<h3 align="center">Frontend Developer specializing in Next.js, building fast, scalable, and user-focused web applications. I genuinely love what I do — constantly learning, improving, and pushing my limits to create better and more impactful digital experiences.</h3>
+<h1 align="center">Hey 👋, I'm Mohamed Hany</h1>
 
-- 🌱 I’m currently learning **mern stack**
+<h3 align="center">
+Full-Stack Developer (MERN) focused on building real-world systems, not just websites.
+I create scalable, high-performance web applications that solve actual business problems.
+</h3>
 
-- 💬 Ask me about **react , next , typescript**
+---
 
-- 📫 How to reach me **elqoptan337@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/mohamed.hany.972692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.hany.972692" height="30" width="40" /></a>
-<a href="https://instagram.com/mhm.fr132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhm.fr132" height="30" width="40" /></a>
+- 🧠 I think in **systems, not pages**
+- ⚡ Building **Full-Stack apps with MERN**
+- 🎯 Focused on **performance, scalability & clean architecture**
+- 💡 Turning ideas into **real products that make money**
+- 📈 Currently leveling up my **Backend & System Design skills**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 📬 Contact Me
+
+- 📧 Email: **elqoptan337@gmail.com**
+
+<p align="center">
+  <a href="https://www.facebook.com/mohamed.hany.972692">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://instagram.com/mhm.fr132">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
