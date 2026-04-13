@@ -29,7 +29,7 @@ I create scalable, high-performance web applications that solve actual business 
 
 - 📧 Email: **elqoptan337@gmail.com**
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/mohamed.hany.972692">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
