@@ -33,7 +33,16 @@ I create scalable, high-performance web applications that solve actual business 
   <a href="https://www.facebook.com/mohamed.hany.972692">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
+
   <a href="https://instagram.com/mhm.fr132">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://wa.me/201070010209">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohamedhany-empapy-3b0510376/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
