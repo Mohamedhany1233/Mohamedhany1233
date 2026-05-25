@@ -35,7 +35,7 @@ I create scalable, high-performance web applications that solve actual business 
   </a>
 
   <a href="https://instagram.com/mhm.fr132">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://wa.me/201070010209">
